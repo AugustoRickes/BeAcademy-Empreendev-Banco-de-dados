@@ -1,2 +1,4 @@
 # BeAcademy-Empreendev-Banco-de-dados
-Fundamentos de Banco de Dados/Bancos relacionais e NoSQL Ferramentas de Desenvolvimento
+Fundamentos de Banco de Dados/Bancos relacionais e NoSQL Ferramentas de Desenvolvimento <br>
+
+WorkBench/Dbeaver Select,Insert,Update,Delete, Truncate Alter e Drop Table Modelo Relacional Chaves Estrangeiras e Join Inner Join varias tabelas Funções de formatação e manipulação de data Tabelas temporárias Group by, Zscore, Over Rank Variaveis Locais, tipo tabela Case, IF, Operadores comparação, Operadores logicos, Like Funçoes escalar, valor tabela Cursores Introdução, diferenças, verificação e forçar índices Pos e contra dos indices Criar indices em tabelas vazias e com dados e tabelas temporarias Indice composto Filegroups e Files da base de dados Sobre filegroups e files management studio Resolvendo problemas com tabela devariavel Resolvendo problemas com tabela de temporaria e subselect CTE- Common Table Expression Vantagens e desvantagens CTE Exemplo de CTE na view
