@@ -1,0 +1,3 @@
+// O usuário abre o computador, vê a tela e solicita uma informação, o que acontece? o Front end faz uma requisição ao Back end ai a API analiza a solicitação, identifica e faz a requisição ao Banco de dados, apois esta com os dados a API organiza e manda em formato JASON que em uma tela preta para o Front end, que porsua vez organiza e deixa tudo bonitinho para a entrega atendendo a solicitação do usuário.
+
+// (o usuário faz uma Request e a API faz uma Response)
